@@ -1,2 +1,0 @@
-# streamingmedia
-Streaming media project
